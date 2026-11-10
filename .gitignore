@@ -1,0 +1,17 @@
+# Environnement virtuel
+.venv/
+.traffic/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.env
+
+
+
+script-1.ipynb
+
