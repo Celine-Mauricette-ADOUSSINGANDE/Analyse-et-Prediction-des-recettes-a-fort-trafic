@@ -75,7 +75,7 @@ L'application s'ouvre sur http://localhost:8501.
 
 ### Déploiement
 
-L'application est hébergée sur [Streamlit Community Cloud](https://share.streamlit.io). Après une période d'inactivité, elle peut se mettre en veille : le premier chargement peut alors prendre environ une minute.
+L'application est hébergée sur [Streamlit Community Cloud](https://share.streamlit.io). 
 
 ## Limites et pistes d'amélioration
 
