@@ -1,7 +1,11 @@
-streamlit
+
 pandas
 numpy
 scipy
 scikit-learn
 matplotlib
 seaborn
+
+streamlit>=1.37
+
+altair

@@ -11,7 +11,9 @@ __pycache__/
 
 .env
 
+app_dashbord.py
 
+app_french.py
 
 script-1.ipynb
 
